@@ -1,0 +1,30 @@
+body {
+  background-color: lightsalmon;
+}
+
+h1 {
+  color:white
+}
+
+h2 {
+  color: greenyellow;
+}
+
+article {
+  padding: 10px
+}
+
+#articleOne {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 3px dotted aquamarine;
+}
+
+#articleTwo {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border: 5px solid aquamarine
+}
+
+#articleThree {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border:7px dashed aquamarine
+}
